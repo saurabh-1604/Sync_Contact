@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655588959942",
+    "project_id": "syncontact-b85a3",
+    "storage_bucket": "syncontact-b85a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655588959942:android:fdf995c46fa875af8f19c7",
+        "android_client_info": {
+          "package_name": "com.example.sync_contact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSvJv1zFVgcR_Vi2IUc-4EYx9X7ivJIlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
